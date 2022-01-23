@@ -15,6 +15,7 @@
 
 - 📫 How to reach me **chtnnh [at] chtnnhfoundation.org**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chtnnh&show_icons=true&locale=en" alt="chtnnh" style="height: 100px; width: auto;" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chtnnh&" alt="chtnnh" style="height: 100px; width: auto;" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=chtnnh&show_icons=true&locale=en" alt="chtnnh" style="height: 100px; width: auto;" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chtnnh&" alt="chtnnh" style="height: 100px; width: auto;" />
+</p>
