@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chtnnh&label=Profile%20views&color=0e75b6&style=flat" alt="chtnnh" /> </p>
 
-- 🔭 I’m currently working on [Questbook (YC W21)](https://questbook.app) and the [chtnnh foundation](https://chtnnhfoundation.org)
+- 🔭 I’m currently working on [BharatX (YC W22)](https://bharatx.tech) and the [chtnnh foundation](https://chtnnhfoundation.org)
 
 - 🌱 I’m currently learning **Rust, DevOps**
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Golang, Node.js, Python, NLP**
 
-- 📫 How to reach me **chtnnh [at] chtnnhfoundation.org**
+- 📫 How to reach me **chtnnh [at] gmail.com**
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=chtnnh&show_icons=true&locale=en" alt="chtnnh" style="height: auto; width: 49%%;" /> 
