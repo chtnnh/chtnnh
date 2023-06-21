@@ -1,6 +1,8 @@
 # Namaste 🙏 I am Chaitanya Mittal.
 
-I am learning software engineering by building and breaking stuff. Currently, I am teaching myself Computer Science by following the curriculum [here](https://teachyourselfcs.com).
+I am learning software engineering by building and breaking stuff. Currently, I am building (No Copilot, Just documentation):
+1. A barebones load balancer in Go
+2. A barebones cron in Go
 
 _"Great results are born of great passion"_
 
