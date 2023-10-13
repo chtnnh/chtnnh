@@ -1,6 +1,6 @@
 hey, i am chtnnh
 
-i am currently working with @labsvisual to build products loved by end-users and businesses alike.
+i am currently working with [@labsvisual](https://github.com/labsvisual) to build products loved by end-users and businesses alike.
 
 feel free to reach out if you are looking for creative solutions to pressing problems in
 1. backend
