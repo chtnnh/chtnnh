@@ -1,12 +1,15 @@
 hey, i am chtnnh
 
-i am currently tinkering with forever altering the future of humanity with decentralized federated machine learning.
+i am currently working with @labsvisual to build products loved by end-users and businesses alike.
 
-hmu if you can teach/build stuff in function sharing, fully homomorphic encryption, anything zk or nlp (including the work done on efficient llm streaming)
+feel free to reach out if you are looking for creative solutions to pressing problems in
+1. backend
+2. cloud infra / orchestration
+3. cryptography
+4. fintech
+5. ml / nlp / gen ai
 
 chtnnh [@] gmail.com
-
-p.s. - anything in mojo, mlops, or compiler engineering also appreciated.
 
 _great results are born of great passion_
 
