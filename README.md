@@ -1,4 +1,5 @@
-hey, i am chtnnh
+## hey, i am chtnnh
+_the fastest growing software engineer in the world._
 
 i am currently working with [@labsvisual](https://github.com/labsvisual) to build products loved by end-users and businesses alike.
 
